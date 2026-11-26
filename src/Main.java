@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Git!");
         System.out.println("My first Eclipse Git practice.");
+        System.out.println("使用Eclipse IDE開發環境");
 	}
 
 }
