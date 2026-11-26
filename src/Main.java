@@ -7,7 +7,7 @@ public class Main {
         System.out.println("My first Eclipse Git practice.");
         System.out.println("使用Eclipse IDE開發環境");
         System.out.println("測試2");
-        System.out.println("測試3");
+        System.out.println("測試4");
 	}
 
 }
