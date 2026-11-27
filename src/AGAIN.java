@@ -5,6 +5,7 @@ public class AGAIN {
 		// TODO Auto-generated method stub
 		System.out.print("test test1126");
 		System.out.print("測試下拉pull");
+		System.out.print("測試branch1");
 	}
 
 }
