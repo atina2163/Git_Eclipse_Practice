@@ -6,6 +6,7 @@ public class AGAIN {
 		System.out.print("test test1126");
 		System.out.print("測試下拉pull");
 		System.out.print("測試branch1");
+		System.out.print("測試branch2");
 	}
 
 }
